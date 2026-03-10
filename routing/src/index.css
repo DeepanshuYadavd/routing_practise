@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background: linear-gradient(to right, rgb(142, 15, 227), pink);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1rem 0.5rem;
+}
+
+nav,
+.auth {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+footer {
+  background: linear-gradient(to right, rgb(142, 15, 227), pink);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1rem 0.5rem;
+}
+
+main {
+  height: 80dvh;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
