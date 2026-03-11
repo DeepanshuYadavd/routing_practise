@@ -16,13 +16,33 @@ const Header = () => {
               Product
             </Link>
           </div>
-          <div>About</div>
-          <div>Contact</div>
+          <div>
+            {" "}
+            <Link className="link" to="/about">
+              About
+            </Link>
+          </div>
+          <div>
+            {" "}
+            <Link className="link" to="/contact">
+              Contact
+            </Link>
+          </div>
         </nav>
 
         <div className="auth">
-          <div>signin</div>
-          <div>signup</div>
+          <div>
+            {" "}
+            <Link className="link" to="/signin">
+              Signin
+            </Link>
+          </div>
+          <div>
+            {" "}
+            <Link className="link" to="/signup">
+              Signup
+            </Link>
+          </div>
         </div>
       </header>
     </>

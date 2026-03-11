@@ -5,7 +5,7 @@
 }
 
 header {
-  background: linear-gradient(to right, rgb(142, 15, 227), pink);
+  background: linear-gradient(to right, rgb(117, 7, 86), rgb(40, 3, 72));
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -26,10 +26,6 @@ footer {
   align-items: center;
   justify-content: space-around;
   padding: 1rem 0.5rem;
-}
-
-main {
-  height: 80dvh;
 }
 
 .link {

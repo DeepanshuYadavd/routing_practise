@@ -1,0 +1,12 @@
+react setup
+virtual dom
+components
+props and props drilling
+map listing
+events: onClick, onchange, onsubmit
+hooks: usestate, useEffect, usememo, useref, usecallbacks
+custom hooks
+
+
+global state management:
+ redux toolkit, zustand, context api (choose any one)
