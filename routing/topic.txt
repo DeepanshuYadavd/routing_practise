@@ -4,6 +4,7 @@ components
 props and props drilling
 map listing
 events: onClick, onchange, onsubmit
+mount and demount
 hooks: usestate, useEffect, usememo, useref, usecallbacks
 custom hooks
 
